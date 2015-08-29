@@ -1,0 +1,163 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dip"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/set_1"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_1"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/set_2"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_2"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/set_3"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_3"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/set_4"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_4"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/set_5"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_5"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/set_6"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_6"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/set_7"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_7"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/set_8"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_8"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/set_9"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_9"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/set_10"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dip"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:drawablePadding="-30dip"
+                android:text="@string/set_10"
+                android:textColor="#DFDFDF"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

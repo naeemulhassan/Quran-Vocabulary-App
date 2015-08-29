@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quranic Words</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="level_1">LEVEL 1</string>
+    <string name="level_2">LEVEL 2</string>
+    <string name="level_3">LEVEL 3</string>
+    <string name="level_4">LEVEL 4</string>
+    <string name="level_5">LEVEL 5</string>
+    <string name="level_6">LEVEL 6</string>
+    <string name="level_7">LEVEL 7</string>
+    <string name="level_8">LEVEL 8</string>
+    <string name="level_9">LEVEL 9</string>
+    <string name="level_10">LEVEL 10</string>
+    <string name="set_1">SET 1</string>
+    <string name="set_2">SET 2</string>
+    <string name="set_3">SET 3</string>
+    <string name="set_4">SET 4</string>
+    <string name="set_5">SET 5</string>
+    <string name="set_6">SET 6</string>
+    <string name="set_7">SET 7</string>
+    <string name="set_8">SET 8</string>
+    <string name="set_9">SET 9</string>
+    <string name="set_10">SET 10</string>
+    
+</resources>
